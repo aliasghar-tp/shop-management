@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Mobile",
+        "price": 1000,
+        "quantity": 2,
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Bag",
+        "price": 4,
+        "quantity": 10,
+        "category": "Accessories"
+    },
+    {
+        "id": 3,
+        "name": "Wireless Mouse",
+        "price": 25,
+        "quantity": 15,
+        "category": "Electronics"
+    },
+    {
+        "id": 4,
+        "name": "Coffee Maker",
+        "price": 45,
+        "quantity": 3,
+        "category": "Coffee Maker"
+    },
+    {
+        "id": 5,
+        "name": "Notebook Hardcover",
+        "price": 12,
+        "quantity": 50,
+        "category": "Notebook Hardcover"
+    }
+]
